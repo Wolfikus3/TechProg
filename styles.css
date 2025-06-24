@@ -150,10 +150,10 @@ body {
   transition: 0.3s background;
 }
 
-/* .btn:hover {
+.btn:hover {
   background: #fff;
   cursor: pointer;
-} */
+}
 
 .modal {
   display: none;
